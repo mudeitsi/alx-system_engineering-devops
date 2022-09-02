@@ -1,1 +1,1 @@
-Adds execute permission to the owner of the file hello
+Adds execute permissions to owner, group owner, read permissions to other users to the file hello
