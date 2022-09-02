@@ -1,1 +1,1 @@
-Deletes all files that end with ~
+Creates the directories welcome/, welcome/to/, and welcome/to/school
