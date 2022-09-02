@@ -1,1 +1,1 @@
-Moves all files beginning with uppercase to /tmp/u
+Deletes all files that end with ~
