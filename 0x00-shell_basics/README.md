@@ -1,1 +1,1 @@
-Creates the directories welcome/, welcome/to/, and welcome/to/school
+Lists all files and directories separated by commas
