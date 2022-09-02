@@ -1,1 +1,1 @@
-Sets all permissions to other and none to owner and group
+Sets the mode of the file hello
