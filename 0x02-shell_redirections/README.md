@@ -1,1 +1,1 @@
-Prints "Hello, World" followed by a new line of standard output
+Display contents of the /etc/passwd file
